@@ -20,7 +20,7 @@ just clone install change settings and run it
     
 ## Acknowledgements
 
- - [HYE](https://cloud.hye.gg/)
+ - [HYE Hosting](https://cloud.hye.gg/)
 ## Authors
 
 - [@MrLuto](https://www.github.com/MrLuto)
